@@ -41,7 +41,7 @@ print(df.isnull().sum())
 df = df.dropna()
 ```
 
-###3. Data Analysis
+### 3. Data Analysis
 **SQL (SQLite Example):**
 
 ```-- Create a table
@@ -62,7 +62,7 @@ FROM sales
 GROUP BY Product;
 ```
 
-###4. Data Visualization
+### 4. Data Visualization
 **Using Power BI:**
 
 1. Load `sales_data.csv` into Power BI.
@@ -71,7 +71,7 @@ GROUP BY Product;
    - **Line Chart:** Sales trends over time.
    - **Slicer:** Filter data by region or product.
 
-###5. Reporting 
+### 5. Reporting 
 **Write a Summary Report:**
 **Sales Analysis Report**
 
