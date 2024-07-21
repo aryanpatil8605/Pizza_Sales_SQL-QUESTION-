@@ -1,4 +1,4 @@
-#Project 1: Sales Analysis and Reporting
+# Project 1: Sales Analysis and Reporting
 
 **Objective:** Analyze sales data to identify trends and patterns to support strategic decision-making.
 
