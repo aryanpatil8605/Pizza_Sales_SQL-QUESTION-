@@ -1,8 +1,4 @@
-# Data Analysis Projects
-
-This repository contains several data analysis projects that showcase skills in SQL, Power BI, Python (Pandas, NumPy), and R. Follow the instructions below to replicate each project.
-
-## Project 1: Sales Analysis and Reporting
+#Project 1: Sales Analysis and Reporting
 
 **Objective:** Analyze sales data to identify trends and patterns to support strategic decision-making.
 
