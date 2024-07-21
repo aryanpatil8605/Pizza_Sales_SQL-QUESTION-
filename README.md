@@ -6,7 +6,9 @@ This repository contains several data analysis projects that showcase skills in 
 
 **Objective:** Analyze sales data to identify trends and patterns to support strategic decision-making.
 
-### Data Collection
+### 1. Data Collection
+
+Data Source: Use a sample sales dataset (you can find datasets on sites like Kaggle or use the following fictional dataset).
 
 - **Data Source:** `sales_data.csv`
 - **Sample Data:**
@@ -19,7 +21,7 @@ This repository contains several data analysis projects that showcase skills in 
     2024-01-02,Widget B,South,1700
     ```
 
-### Data Cleaning
+### 2. Data Cleaning
 
 **Python (Pandas):**
 
@@ -39,7 +41,7 @@ print(df.isnull().sum())
 df = df.dropna()
 ```
 
-### Data Analysis
+###3. Data Analysis
 **SQL (SQLite Example):**
 
 ```-- Create a table
@@ -60,8 +62,8 @@ FROM sales
 GROUP BY Product;
 ```
 
-### Data Visualization
-**Power BI:**
+###4. Data Visualization
+**Using Power BI:**
 
 1. Load `sales_data.csv` into Power BI.
 2. Create the following visualizations:
@@ -69,8 +71,8 @@ GROUP BY Product;
    - **Line Chart:** Sales trends over time.
    - **Slicer:** Filter data by region or product.
 
-### Reporting
-**Sales Analysis Report:**
+###5. Reporting 
+**Write a Summary Report:**
 **Sales Analysis Report**
 
 - **Total Sales by Product:** Widget A: $2200, Widget B: $3200
